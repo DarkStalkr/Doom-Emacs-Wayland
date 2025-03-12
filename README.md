@@ -21,7 +21,7 @@ e.g: On fish
 fish_add_path /home/sohighman/.emacs.d/bin
 ```
 
-## 4. Run ``doom sync`` and ``doom doctor```
+## 4. Run ``doom sync`` and ``doom doctor``
 
 ## 5. Create Custom Desktop Entries for launching a Server & Client:
 
